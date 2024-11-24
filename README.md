@@ -19,7 +19,7 @@ Affected code:
 
 ## Discussion
 
-It seems that tailwind will bail out if candidates are inside a JS array with length > 3. Code of interest:
+It seems that tailwind will miss candidates inside a JS array with length > 3. Code of interest:
 
 ```svelte
 <script>
