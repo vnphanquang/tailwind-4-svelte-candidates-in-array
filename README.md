@@ -1,5 +1,7 @@
 # Reproduction - TailwindCSS 4 + Svelte - Candidates in JS array
 
+Reproduction for https://github.com/tailwindlabs/tailwindcss/issues/15148
+
 Steps:
 
 1. Clone this repository
